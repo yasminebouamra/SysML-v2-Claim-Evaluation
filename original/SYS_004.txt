@@ -1,0 +1,48 @@
+Mission Requirements
+
+- The OT-UAV should transport the Organ Carrier from a donor hospital to the recipient hospital
+- The OT-UAV should have a maximum endurance of XX hours on a fully charged battery
+- The OT-UAV should house the Organ Carrier, battery, and communications systems
+- The OT-UAV should transport the organ within the viable time window for the type of organ being transported
+
+Operational Requirements
+
+- The OT-UAV should have fully autonomous take-off, flight, and landing capabilities
+- The OT-UAV should have a human-controller override
+- The OT-UAV should be resilient to operate in a wide range of flight-safe weather conditions
+- The OT-UAV should be operable during the day and the night
+- The OT-UAV should be operable beyond line-of-sight (BLOS)
+- The OT-UAV should comply with all FAA regulations
+
+Organ Carrier Requirements
+
+- The Organ Carrier should house an auxiliary battery, Organ Monitoring System, and the Organ
+- The Organ Carrier should be structurally resilient to OT-UAV ground and inflight temperatures, forces, and vibrations
+- The Organ Carrier should house the Organ in organ-specific requirements for orientation, temperature, forces, and vibrations
+- The Organ Monitoring System should monitor and report the temporal data for temperature, forces, vibrations, and location of the Organ Carrier
+- The Organ Monitoring System communications channel should not interfere with OT-UAV operations communications channel
+
+Rescue System Requirements
+
+- The Organ Carrier should be equipped with a Rescue System that will protect the Organ and safely land on the ground in case of a midair malfunction
+- The Rescue System should deliver the Organ Carrier gently to the ground to protect the Organ
+- The Carrier Mount should disengage the Organ Carrier in case of a midair malfunction
+- The Organ Monitoring System should monitor and report the temporal temperature, forces, vibrations, and location of the Organ Carrier in case of a midair malfunction
+
+
+
+Carrier Mount Requirements
+
+The OT-UAV should have a Carrier Mount as an interface to the Organ Carrier
+The Carrier Mount should be structurally resilient to house the Organ Carrier
+The Carrier Mount should be structurally resilient to temperature, forces, and vibrations of the OT-UAV during ground and inflight operations
+
+
+
+Security Requirements
+
+Access to the Organ Carrier should only be granted to eligible individuals to prevent theft
+
+Mass Requirements
+
+The actual mass shall be less than or equal to the required mass

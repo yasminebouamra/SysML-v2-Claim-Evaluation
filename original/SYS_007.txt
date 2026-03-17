@@ -1,0 +1,19 @@
+Aircraft Performance Requirements
+
+- The aircraft should have a maximum range of at least 1000 km
+- The aircraft should have a maximum endurance of at least 4 hours
+- The aircraft should have a minimum velocity of at least 80 km/h
+- The aircraft propeller should produce enough thrust to exceed drag
+- The aircraft should have a stall velocity of at least 80 km/h with flaps
+- The aircraft should have sufficient thrust available to travel at a greater velocity than the stall velocity
+
+Aircraft Control and Navigation Requirements
+
+- The aircraft should determine accurate position and velocity data
+- The aircraft should accurately determine altitude and speed
+- The aircraft should display accurate position and heading
+- The pilot should be able to control the heading of the aircraft based on displayed data
+
+Aircraft Stability Requirements
+
+- The aircraft should have any features necessary for stable flight

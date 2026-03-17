@@ -1,0 +1,10 @@
+General Mass Limitation Requirements
+- The actual mass should be less than or equal to the required mass
+Vehicle Mass Limitation Requirements
+- The total mass of a vehicle should be less than or equal to the required mass
+- The total mass should be calculated as the sum of the vehicle's dry mass and fuel mass
+- The vehicle fuel mass should be greater than 0 kg
+Drive Power Interface Requirements
+- The engine should transfer its generated torque to the transmission via the clutch interface
+Torque Generation Requirements
+- The engine should generate torque as a function of RPM as shown in Table 1

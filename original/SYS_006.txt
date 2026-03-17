@@ -1,0 +1,24 @@
+User Interface Requirements
+
+- The flashlight should have a user interface for operation
+
+Illumination Requirements
+
+- The flashlight should provide adequate illumination
+- The flashlight field of view should be 0 - 20 degrees
+- The light power should be a minimum of TBD lumens
+
+Physical Requirements
+
+- The flashlight should meet physical design constraints
+- The flashlight should be portable
+- The flashlight should be less than 6 inches in length
+- The weight should be less than 0.25 lbs
+
+Reliability Requirements
+
+- The flashlight should be reliable during operation
+
+Cost Requirements
+
+- The flashlight should meet cost constraints

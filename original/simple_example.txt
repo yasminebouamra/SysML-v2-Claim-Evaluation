@@ -1,0 +1,9 @@
+The vehicle shall have a maximum mass of at most 2200 kg.
+
+The vehicle chassis shall have a maximum mass of at most 1200 kg.
+
+The vehicle engine shall have a maximum mass of at most 500 kg.
+
+The vehicle shall provide an autonomy between 600 km and 800 km under ambient temperature of 20 °C.
+
+The vehicle shall provide an autonomy between 400 km and 500 km under ambient temperature of 4 °C.

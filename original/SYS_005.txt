@@ -1,0 +1,49 @@
+Orion Spacecraft Requirements
+
+- The Orion spacecraft should be capable of safely carrying astronauts on deep space exploration missions
+
+Crew Module Requirements
+
+- The Orion spacecraft should have a crew module designed for astronauts to live and work in
+- The crew module should be able to accommodate four crew members for up to 21 days without docking with another spacecraft
+- The crew module should have a propulsion system capable of providing full control of crew module translation and rotation
+- The crew module should provide a safe habitat for crew members through launch, in-orbit operations, landing, and recovery
+- The top of the crew module should have a parachute system to be deployed after re-entering Earth's atmosphere that slows down the module to a safe speed for splashdown
+
+Service Module Requirements
+
+- The Orion spacecraft should have a service module that provides power, propulsion, and critical supplies
+- The consumable storage system of the service module should provide potable water, nitrogen, and oxygen to the crew module
+- The service module should unfurl its solar arrays once Orion is above the atmosphere
+- The solar arrays should charge batteries in the crew module
+- The Orion spacecraft should operate off of battery power if the solar arrays cannot be depended upon
+- The service module should propel Orion after the spacecraft separates from the upper stage of the SLS rocket
+The service module should maintain the course of Orion as it travels to the Moon and back
+- The service module should detach from the crew module before it enters Earth's atmosphere
+- The service module's thermal control system should keep the equipment and crew members at a comfortable temperature
+
+Launch Abort System (LAS) Requirements
+
+- The Orion spacecraft should have a launch abort system that can pull the spacecraft and crew to safety in the event of an emergency during launch or ascent to orbit
+- The LAS should pull the spacecraft away from the rocket and position the module for a safe landing
+- The abort motor should be able to pull the crew module away from the rocket
+- The attitude control motor should be able to steer and orient the capsule precisely
+- The jettison motor should be able to ignite to separate the LAS from the crew module prior to parachute deployment
+- The launch abort system (LAS) should be able to activate within milliseconds
+
+Communication and Navigation Requirements
+
+- The Orion spacecraft should be capable of communicating and navigating beyond the range of GPS and above communication satellites in Earth orbit
+
+Radiation Shielding Requirements
+
+- The Orion spacecraft should have sufficient radiation shielding to protect its internals
+
+Heat Shielding Requirements
+
+- The Orion spacecraft should have sufficient heat shielding to protect its internals during high-speed re-entry into Earth's atmosphere
+- The Orion spacecraft should have sufficient ablative heat shielding to endure temperatures of nearly 5,000 degrees Fahrenheit
+
+Flight Software Requirements
+
+- The Orion primary flight computer software should be fully automated such that it can execute the mission and handle potential faults

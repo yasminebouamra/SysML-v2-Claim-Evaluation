@@ -1,0 +1,17 @@
+Load Requirements
+- The hybrid SUV should meet load capacity requirements
+- The hybrid SUV should accommodate the required number of passengers
+- The hybrid SUV should have adequate fuel capacity
+- The hybrid SUV should provide sufficient cargo space
+Eco-Friendliness Requirements
+- The hybrid SUV should meet environmental standards
+- The car should meet 2010 Kyoto Accord emissions standards
+Performance Requirements
+- The hybrid SUV should meet performance standards
+- The hybrid SUV should provide adequate acceleration
+- The user should obtain fuel economy better than that provided by 95% of cars built in 2004
+- The hybrid SUV should provide adequate braking performance
+- The hybrid SUV should have sufficient range
+- The hybrid SUV should provide adequate power
+Ergonomics Requirements
+- The hybrid SUV should meet ergonomic design standards

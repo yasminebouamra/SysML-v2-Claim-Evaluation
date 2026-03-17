@@ -1,0 +1,8 @@
+- The actual mass shall be less than or equal to the required mass.
+- The camera shall have a resolution of 1 meter or less.
+- The camera shall have a swath width of at least 7.5 kilometers.
+- Operational Requirements for the Satellite
+- The satellite shall operate for at least 10 years.
+- The cost for R&D shall be less than $20M.
+- The satellite shall have initial operating capabilities within 1.5 years, with final capabilities within 2 years.
+

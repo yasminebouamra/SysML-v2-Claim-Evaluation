@@ -1,0 +1,37 @@
+Vehicle Component Mass Requirements
+
+Each vehicle part should have a defined mass value
+This includes the vehicle itself and all its subcomponents
+
+
+
+Vehicle Assembly Mass Requirements
+
+A vehicle should be composed of multiple vehicle parts, including:
+One engine part
+One transmission part
+
+
+
+Mass Summation Calculation Requirements
+
+The system should provide a mass summation calculation capability
+The calculation should accept an input of zero or more mass values for vehicle parts
+The calculation should return the total mass as the sum of all input part masses
+
+
+
+Vehicle Total Mass Requirements
+
+The total mass of a vehicle should be calculated as the sum of its component part masses
+The vehicle's total mass should equal the sum of the engine mass and transmission mass
+This calculation should be performed using the mass summation function with the engine and transmission masses as inputs
+
+
+
+Vehicle Collection Mass Requirements
+
+The system should support collections of multiple vehicles
+The system should be able to extract and collect mass values from all vehicles in a collection
+Mass values should be accessible by treating vehicles as vehicle parts
+Mass values should be accessible by treating vehicles as vehicle instances

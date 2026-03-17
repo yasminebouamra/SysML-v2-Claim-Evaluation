@@ -1,0 +1,112 @@
+Grass Cutting Operation Requirements
+
+The lawnmower should perform grass cutting operations in the following sequence:
+Start the engine
+Push the mower
+Shut off the mower
+
+
+
+Component Assembly Requirements
+
+The lawnmower should be comprised of the following components:
+One engine
+One blade
+One deck
+One front left wheel
+One front right wheel
+One rear left wheel
+One rear right wheel
+One handle
+
+
+
+Component Connection Requirements
+
+The engine should be connected to the deck
+The engine should be connected to the blade
+The deck should be connected to the front left wheel via a pin connection
+The deck should be connected to the front right wheel via a pin connection
+The deck should be connected to the rear left wheel via a pin connection
+The deck should be connected to the rear right wheel via a pin connection
+The deck should be connected to the handle
+
+Engine Requirements
+Engine Mass Requirement
+
+The engine should have a mass of 190 units
+[Commented requirement] The engine mass should be less than or equal to 200 units
+
+Engine Material Requirements
+
+The engine block material should be iron
+
+Engine Operating Requirements
+
+The engine should have a minimum operating temperature of 0 degrees
+
+Engine Component Requirements
+
+The engine should contain the following components:
+One piston with a diameter of 1 unit and mass of 3 units
+One connecting rod
+One crankshaft with a mass of 5 units
+One crankshaft bearing with a mass of 2 units
+One engine block with a mass of 6 units
+
+
+
+Engine Force Transfer Requirements
+
+The piston should transfer force to the connecting rod through the piston port
+The connecting rod should transfer force to the crankshaft through the connecting rod crank port
+The crankshaft should transfer force to the crankshaft bearing through the crankshaft bearing port
+The crankshaft bearing should transfer force to the engine block through the bearing block port
+The engine block should transfer force back to the piston through the cylinder port
+
+Deck Requirements
+
+The deck should have a color specification of "Blue"
+The deck should have a mass of 50 units
+
+Blade Requirements
+
+The blade should have a diameter of 24 units
+The blade should have a mass of 5 units
+
+Wheel Requirements
+Wheel Assembly Requirements
+
+Each wheel should consist of:
+One rim
+One tire
+
+
+
+Rim Requirements
+
+The rim should have a diameter of 5 units
+The rim should have a width of 2 units
+The rim should have a mass of 4 units
+
+Tire Requirements
+
+The tire should have standard tread
+The tire should have a mass of 5 units
+
+Connecting Rod Requirements
+Rod Bolt Variant Requirements
+
+The connecting rod should have two rod bolts with the following variant options:
+
+Rod Bolt Variant A
+
+Mass: 2.5 units
+Length: 2 units
+Material: Steel
+
+Rod Bolt Variant B
+
+Mass: 2.0 units
+Length: 2 units
+Material: Aluminum

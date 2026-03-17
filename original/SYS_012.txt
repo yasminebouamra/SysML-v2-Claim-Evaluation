@@ -1,0 +1,133 @@
+Mass Requirements
+
+The actual mass of any vehicle component should be less than or equal to the required mass
+
+Reliability Requirements
+
+The actual reliability of any vehicle component should be greater than or equal to the required reliability
+
+Vehicle Specification Requirements
+Vehicle Mass Requirement
+
+The total mass of a vehicle should be less than or equal to 2000 kg
+The total mass calculation should include a full tank of gas
+The total mass should be calculated as the sum of dry mass, cargo mass, and fuel mass
+
+
+
+Fuel Economy Requirements
+
+The vehicle should meet fuel economy requirements for different driving conditions
+
+City Fuel Economy Requirement
+
+The vehicle should obtain fuel economy of at least 25 miles per gallon in city driving conditions
+This requirement assumes a cargo mass of at least 500 kg
+
+
+
+Highway Fuel Economy Requirement
+
+The vehicle should obtain fuel economy of at least 30 miles per gallon in highway driving conditions
+This requirement assumes a cargo mass of at least 500 kg
+
+
+
+Engine Requirements
+Torque Generation Requirement
+
+The engine should generate torque as a function of RPM as shown in Table 1
+
+Drive Power Interface Requirement
+
+The engine should transfer its generated torque to the transmission via the clutch interface
+
+Fuel Tank Requirements
+
+The fuel tank should maintain fuel mass less than or equal to the maximum fuel capacity
+
+Vehicle Operational Requirements
+Power Provision
+
+The vehicle should provide power to the wheels through the drivetrain system
+The engine should generate torque based on fuel commands
+The transmission should amplify the engine torque
+The driveshaft should transfer torque from the transmission to the axle assembly
+The axle assembly should distribute torque to the wheels
+
+
+
+Self-Test Capability
+
+The vehicle should be capable of performing self-test procedures
+
+Parking Brake
+
+The vehicle should have the capability to apply a parking brake
+
+Temperature Monitoring
+
+The vehicle should sense and monitor temperature conditions
+
+Vehicle State Requirements
+Operating States
+
+The vehicle should support the following operating states: off, starting, and on
+The vehicle should transition from off to starting when:
+A vehicle start signal is received
+The brake pedal is depressed
+A start signal is sent to the controller
+
+
+The vehicle should transition from starting to on when a vehicle-on signal is received
+The vehicle should transition from on to off when a vehicle-off signal is received
+When entering the "on" state, the vehicle should perform a self-test
+While in the "on" state, the vehicle should provide power
+When exiting the "on" state, the vehicle should apply the parking brake
+While in the "on" state, the electrical power should be less than or equal to 500 watts
+
+
+
+Health States
+
+The vehicle should monitor health conditions and support the following health states: normal, maintenance, and degraded
+The vehicle should continuously sense temperature
+The vehicle should transition from normal to maintenance at the scheduled maintenance time
+The vehicle should transition from normal to degraded when temperature exceeds the maximum threshold
+An over-temperature signal should be sent to the controller
+
+
+The vehicle should transition from maintenance to normal when a return-to-normal signal is received
+The vehicle should transition from degraded to normal when a return-to-normal signal is received
+
+
+
+Vehicle Controller Requirements
+Controller Operating States
+
+The vehicle controller should support the following operating states: off and on
+The controller should transition from off to on when a start signal is received
+The controller should transition from on to off when an off signal is received
+
+
+
+Drivetrain Efficiency Requirements
+
+The rear axle assembly should have a drivetrain efficiency of at least 0.6 (60%)
+
+Wheel Requirements
+
+The rear wheels should have defined diameter specifications
+
+Fuel Economy Analysis Requirements
+
+The fuel economy analysis should determine whether the vehicle design configuration can satisfy the fuel economy requirements
+The analysis should calculate fuel economy based on a nominal driving scenario
+The analysis should use straight-line dynamics calculations considering:
+Engine peak horsepower
+Vehicle mass
+Time intervals
+Position and velocity changes
+
+
+The analysis should include fuel consumption analysis based on power versus time data

@@ -1,0 +1,55 @@
+SLS Rocket Requirements
+
+- The Rocket should provide the power to help Orion reach the speed needed to send it to the Moon
+
+Core Stage Requirements
+
+- The Core Stage of the rocket should facilitate the launch and achieve insertion into Earth orbit
+- The Core stage Main Propulsion system should supply propellants to the engines under the required temperature and pressure conditions
+- The core stage should be comprised of five major sections: the engine section, the liquid hydrogen tank, the intertank, the liquid oxygen tank, and the forward skirt
+- The engine section should house the engines, the engine thrust structure, and the propellant ducts
+- The engine should be able to operate in the temperature and pressure extremes the core stage will experience
+- The forward skirt should house avionics systems, provide structural support, facilitate access and maintenance, manage internal pressure and venting, and ensure reliable communication
+- The forward skirt should have access doors, a ventilation system, pressurant lines, and communication antennas
+- The forward skirt should house a majority of the rocket's avionics
+- The forward skirt should house three redundant flight computers that serve as the flight control system for the rocket
+- The intertank should separate the upper dome of the liquid hydrogen tank and the lower dome of the liquid oxygen tank and support the core stage structure
+- The intertank should contain a thrust structure to carry loads imparted from the solid rocket boosters during ascent
+- The intertank should contain interfaces to the liquid hydrogen and liquid oxygen tanks
+- The liquid hydrogen tank should have the capacity to fuel the engines from launch to Earth orbit insertion
+- The liquid oxygen tank should have the capacity to fuel the engines from launch to Earth orbit insertion
+- The core stage should house the propellant tanks, engines, avionics, and attach points for a pair of solid rocket boosters necessary to launch from the ground and ascend to Earth orbit
+- The SLS twin rocket boosters should provide the necessary thrust and control during the initial phase of the launch
+- The SLS twin rocket boosters should be jettisoned after approximately two minutes of flight
+- The SLS twin rocket boosters should provide more than 75% of the total SLS thrust at launch and for the first two minutes of flight
+- The two solid-fuel, side-mounted booster motors should provide the majority of steering for the rocket during the first two minutes of flight
+- The thermal protection system should provide adequate insulation to protect the core stage from temperature extremes and aerodynamic pressures during the mission
+- The thermal protection system insulation should be flexible enough to move with the rocket but rigid enough to take the aerodynamic pressures the SLS sustains as it launches into orbit
+- The thermal protection system should provide the insulation to keep the cryogenic propellant cold enough to remain liquid
+
+
+
+
+
+Interim Cryogenic Propulsion Stage (ICPS) Requirements
+
+The Interim Cryogenic Propulsion Stage (ICPS) should provide propulsion in space after the solid rocket boosters and core stage are jettisoned
+
+Launch Vehicle Stage Adapter (LVSA) Requirements
+
+The Launch Vehicle Stage Adapter (LVSA) should connect the SLS core stage below to the Orion stage adapter above and support the operations of the rocket
+The LVSA should protect avionics and electrical devices in the ICPS from vibration and acoustic conditions during launch and ascent
+The LVSA should provide a separation system such that once the core stage propellant is expended and the rocket is in Earth orbit, the core stage and LVSA is separated from the ICPS, Orion stage adapter, and Orion
+The LVSA should provide structural support for launch
+
+
+
+Orion Stage Adapter (OSA) Requirements
+
+The Orion Stage Adapter (OSA) should connect the ICPS to the Orion spacecraft and contain the secondary payload
+The OSA should carry small satellites, CubeSats, as secondary payloads
+The OSA should contain a secondary payload deployment system for CubeSats
+The OSA should deploy CubeSats following separation from Orion and after the spacecraft is a safe distance away
+
+
+The OSA should remain attached to the ICPS as the ICPS continues on its disposal journey

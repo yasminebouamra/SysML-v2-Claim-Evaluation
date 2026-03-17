@@ -1,0 +1,110 @@
+Standard Drone Engine Requirements
+
+- The engine should provide enough power to lift the drone off the ground and keep it in the air
+
+- The power output should be appropriate for the size and weight of the drone
+
+
+- The engine should be efficient, allowing the drone to fly for an extended period on a single charge
+
+The engine should be designed to minimize energy loss through friction and heat
+
+
+The engine should be able to withstand the stress of continuous use and exposure to the elements
+
+The engine should be able to operate in a wide range of temperatures and weather conditions
+
+
+The engine should be reliable, with minimal downtime or maintenance requirements
+
+The engine should be designed with high-quality components and undergo rigorous testing before deployment
+
+
+The engine should be lightweight, allowing for maximum payload capacity and longer flight times
+
+The engine should be easy to control, allowing for precise maneuverability and responsiveness to commands
+
+The engine should be compatible with the drone's power supply and electronic components
+
+The engine should be designed with safety in mind, minimizing the risk of injury or damage in case of malfunction
+
+The engine should have fail-safe mechanisms to prevent accidents and minimize damage in case of emergency
+
+
+The engine should be cost-effective, balancing performance and quality with affordability
+
+The engine should provide value for money, with a low cost of ownership and maintenance
+
+
+
+Low Noise Drone Engine Requirements (Additional)
+
+The engine should produce minimal noise to avoid disturbing the environment or attracting unwanted attention
+
+Drone Battery Requirements
+
+The battery should have adequate weight specifications for the drone design
+
+The battery should have sufficient maximum capacity to support the intended flight duration
+
+The battery should monitor and report current capacity levels (full, medium, low, critical)
+
+The battery cells should store electrical energy efficiently
+
+Battery cells should typically be Lithium Polymer (LiPo) or Lithium-Ion (Li-Ion) cells
+
+
+The Battery Management System (BMS) should manage the charging and discharging of the battery cells
+
+The BMS should ensure that cells are charged and discharged correctly and safely
+
+
+The protection circuit should protect the battery from overcharging, over-discharging, and short circuits
+
+The power connector should deliver electrical energy from the battery to the drone
+
+The charging interface should allow the battery to be charged safely and efficiently
+
+The battery indicator should display the remaining battery charge
+
+The indicator should allow the pilot to monitor battery level and plan flight time accordingly
+
+
+The communication interface should allow the battery to communicate with the drone's flight controller
+
+The interface should provide battery information such as voltage, current, and temperature to the flight controller
+
+
+The firmware should control the charging and discharging of the battery cells
+
+The firmware should ensure that the battery operates safely and efficiently
+
+
+
+Drone System Requirements
+
+The drone should have appropriate mass specifications based on design requirements
+
+The drone should support multiple operational states: off, standby, charging, ready, and flying
+
+The drone should support state transitions based on control signals (switch on/off, activate/deactivate, start/stop charging, start/stop flying)
+
+The drone should have a power management system that monitors and controls battery status
+
+The drone should support variable numbers of engines (4 or 6) based on design configuration
+
+The drone should have a body structure with defined spatial dimensions and color options
+
+The drone should have a flight control system appropriate for the engine configuration
+
+The drone should include safety modules for safe operation
+
+The drone should support autonomous flight capabilities
+
+The drone should have navigation systems including GPS module, inertial measurement unit, and barometer
+
+The drone should have a communication system including radio transmitter, receiver, and antenna
+
+The drone should have sensors including camera and obstacle avoidance sensors
+
+The drone should have proper electrical connections between the drone control unit, power management module, and battery
