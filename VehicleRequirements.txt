@@ -1,0 +1,9 @@
+'MAS-001': The vehicle shall have a maximum mass of at most 2200 kg.
+
+'MAS-002': The vehicle chassis shall have a maximum mass of at most 1200 kg.
+
+'MAS-003': The vehicle engine shall have a maximum mass of at most 500 kg.
+
+'AUT-001': The vehicle shall provide an autonomy between 600 km and 800 km under ambient temperature of 20 °C.
+
+'AUT-002': The vehicle shall provide an autonomy between 400 km and 500 km under ambient temperature of 4 °C.
